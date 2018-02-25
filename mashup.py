@@ -2,6 +2,12 @@ import json
 import requests
 import httplib2
 import common
+import sys
+
+## Import functions from code directory
+sys.path.insert(0, '/code')
+import common
+
 
 def define_geocode_location(location_string):
     
