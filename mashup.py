@@ -19,7 +19,6 @@ def define_geocode_location(location_string):
     h = httplib2.Http()
     [response, content] = h.request(full_url, 'GET')
     result = json.loads(content)
-    #print('response header: %s \n \n' % response)
     return result
 
 def query_foursquare_recommendation(location_string, search_interest):
