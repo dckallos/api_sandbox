@@ -1,0 +1,4 @@
+{
+    "GOOGLE": "https://maps.googleapis.com/maps/api/geocode/json",
+    "FOURSQUARE": "https://api.foursquare.com/v2/venues/explore"
+}
