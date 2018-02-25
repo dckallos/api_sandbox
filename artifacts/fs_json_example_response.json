@@ -1,0 +1,179 @@
+{
+    "meta": {
+        "code": 200, 
+        "requestId": "5a93358a351e3d7d146022db"
+    }, 
+    "response": {
+        "groups": [
+            {
+                "items": [
+                    {
+                        "reasons": {
+                            "count": 0, 
+                            "items": [
+                                {
+                                    "reasonName": "globalInteractionReason", 
+                                    "summary": "This spot is popular", 
+                                    "type": "general"
+                                }
+                            ]
+                        }, 
+                        "referralId": "e-0-4b366a87f964a520e63425e3-0", 
+                        "tips": [
+                            {
+                                "agreeCount": 5, 
+                                "canonicalUrl": "https://foursquare.com/item/4f736ed1e4b0c4fe4648490f", 
+                                "createdAt": 1332965073, 
+                                "disagreeCount": 0, 
+                                "id": "4f736ed1e4b0c4fe4648490f", 
+                                "likes": {
+                                    "count": 5, 
+                                    "groups": [], 
+                                    "summary": "5 likes"
+                                }, 
+                                "logView": true, 
+                                "text": "Get the chocolate milk with a bang! It will blow your mind hole. Your life will never be the same", 
+                                "todo": {
+                                    "count": 0
+                                }, 
+                                "type": "user", 
+                                "user": {
+                                    "firstName": "Bryan", 
+                                    "gender": "male", 
+                                    "id": "24862219", 
+                                    "lastName": "Cote", 
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/", 
+                                        "suffix": "/PBO1EXIBDAAQVBRO.jpg"
+                                    }
+                                }
+                            }
+                        ], 
+                        "venue": {
+                            "allowMenuUrlEdit": true, 
+                            "beenHere": {
+                                "count": 0, 
+                                "lastCheckinExpiredAt": 0, 
+                                "marked": false
+                            }, 
+                            "categories": [
+                                {
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_", 
+                                        "suffix": ".png"
+                                    }, 
+                                    "id": "4bf58dd8d48988d1e0931735", 
+                                    "name": "Coffee Shop", 
+                                    "pluralName": "Coffee Shops", 
+                                    "primary": true, 
+                                    "shortName": "Coffee Shop"
+                                }
+                            ], 
+                            "contact": {
+                                "formattedPhone": "(269) 373-2840", 
+                                "phone": "2693732840", 
+                                "twitter": "h2ostreetcoffee"
+                            }, 
+                            "hasMenu": true, 
+                            "hereNow": {
+                                "count": 0, 
+                                "groups": [], 
+                                "summary": "Nobody here"
+                            }, 
+                            "hours": {
+                                "isLocalHoliday": false, 
+                                "isOpen": false
+                            }, 
+                            "id": "4b366a87f964a520e63425e3", 
+                            "location": {
+                                "address": "315 E Water St", 
+                                "cc": "US", 
+                                "city": "Kalamazoo", 
+                                "country": "United States", 
+                                "crossStreet": "at Kalamazoo Ave.", 
+                                "distance": 729, 
+                                "formattedAddress": [
+                                    "315 E Water St (at Kalamazoo Ave.)", 
+                                    "Kalamazoo, MI 49007", 
+                                    "United States"
+                                ], 
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display", 
+                                        "lat": 42.294431549273696, 
+                                        "lng": -85.57917450672126
+                                    }
+                                ], 
+                                "lat": 42.294431549273696, 
+                                "lng": -85.57917450672126, 
+                                "postalCode": "49007", 
+                                "state": "MI"
+                            }, 
+                            "menu": {
+                                "anchor": "View Menu", 
+                                "label": "Menu", 
+                                "mobileUrl": "https://foursquare.com/v/4b366a87f964a520e63425e3/device_menu", 
+                                "type": "Menu", 
+                                "url": "https://foursquare.com/v/water-street-coffee-joint/4b366a87f964a520e63425e3/menu"
+                            }, 
+                            "name": "Water Street Coffee Joint", 
+                            "photos": {
+                                "count": 0, 
+                                "groups": []
+                            }, 
+                            "price": {
+                                "currency": "$", 
+                                "message": "Cheap", 
+                                "tier": 1
+                            }, 
+                            "rating": 8.9, 
+                            "ratingColor": "73CF42", 
+                            "ratingSignals": 104, 
+                            "stats": {
+                                "checkinsCount": 2649, 
+                                "tipCount": 34, 
+                                "usersCount": 1035
+                            }, 
+                            "url": "http://waterstreetcoffeeroaster.com", 
+                            "verified": true
+                        }
+                    }
+                ], 
+                "name": "recommended", 
+                "type": "Recommended Places"
+            }
+        ], 
+        "headerFullLocation": "Kalamazoo", 
+        "headerLocation": "Kalamazoo", 
+        "headerLocationGranularity": "city", 
+        "query": "coffee", 
+        "suggestedBounds": {
+            "ne": {
+                "lat": 42.29578137916642, 
+                "lng": -85.59073106692063
+            }, 
+            "sw": {
+                "lat": 42.29308171938097, 
+                "lng": -85.56761794652189
+            }
+        }, 
+        "suggestedFilters": {
+            "filters": [
+                {
+                    "key": "openNow", 
+                    "name": "Open now"
+                }, 
+                {
+                    "key": "price", 
+                    "name": "$-$$$$"
+                }
+            ], 
+            "header": "Tap to show:"
+        }, 
+        "suggestedRadius": 3632, 
+        "totalResults": 27, 
+        "warning": {
+            "text": "There aren't a lot of results for \"coffee.\" Try something more general, reset your filters, or expand the search area."
+        }
+    }
+}
