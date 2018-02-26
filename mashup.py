@@ -1,7 +1,6 @@
 import json
 import requests
 import httplib2
-import common
 import sys
 
 ## Import functions from code directory
